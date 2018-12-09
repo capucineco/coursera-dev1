@@ -1,0 +1,30 @@
+#nav-list {
+		margin-top: 10px;
+		background-color: #ffffff;
+}
+
+#nav-list a {
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background-color: #ededed;
+}
+
+
+
+.container-fluid {
+		background-color: #f4eff0;
+}
+
+.inside {
+		background-color: #f4eff0;
+		padding: 10px;
+		margin: 10px;		
+}
+
+.Title {
+		text-align: center;
+		font-size: 200%;
+}
+
